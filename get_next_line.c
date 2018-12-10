@@ -6,11 +6,11 @@
 /*   By: jgehin <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/11/20 10:49:31 by jgehin            #+#    #+#             */
-/*   Updated: 2018/12/06 16:08:47 by jgehin           ###   ########.fr       */
+/*   Updated: 2018/12/10 11:18:31 by jgehin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
+#include "libft.h"
 #include "get_next_line.h"
 
 t_glist		*ft_newglist(int fd)
